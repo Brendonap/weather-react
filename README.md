@@ -11,5 +11,6 @@ CREATE TABLE cities
 
 
 npm install
+
 npm run serve
 
